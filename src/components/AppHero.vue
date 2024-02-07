@@ -6,7 +6,7 @@
 
 <template>
     <figure>
-        <img src="../../assets/coding-meme-2.jpeg" />
+        <img src="../assets/coding-meme-2.jpeg" />
     </figure>
 </template>
 
